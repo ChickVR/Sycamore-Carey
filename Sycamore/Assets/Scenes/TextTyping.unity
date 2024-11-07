@@ -1918,8 +1918,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textToType: asdasdadsasdasd
   used: 0
-  waitBetweenCharacters: 0.2
-  suffix: 46
+  waitBetweenCharacters: 0.1
+  suffix: 124
 --- !u!1 &1410040541
 GameObject:
   m_ObjectHideFlags: 0
