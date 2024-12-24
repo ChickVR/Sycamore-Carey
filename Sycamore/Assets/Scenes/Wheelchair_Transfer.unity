@@ -2322,13 +2322,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8309049047333603754, guid: 4fae0699b980ccd4c9e8b749e53fbd0b, type: 3}
       propertyPath: m_text
-      value: Kelly is transfering David from his wheelchair to bed. There are three
+      value: Kelly is transferring David from his wheelchair to bed. There are three
         things Kelly should change about her technique to make the transfer more
         safe for her and David. Identify and click on the things Kelly could improve.
       objectReference: {fileID: 0}
     - target: {fileID: 8309049047333603754, guid: 4fae0699b980ccd4c9e8b749e53fbd0b, type: 3}
       propertyPath: m_fontSize
-      value: 61.75
+      value: 60.55
       objectReference: {fileID: 0}
     - target: {fileID: 8309049047333603754, guid: 4fae0699b980ccd4c9e8b749e53fbd0b, type: 3}
       propertyPath: m_margin.w
@@ -3150,7 +3150,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Mark put the brakes on the wheelchair
+  m_text: The wheelchair is close enough to the bed
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3401,7 +3401,7 @@ VideoPlayer:
   m_AspectRatio: 2
   m_DataSource: 0
   m_TimeUpdateMode: 2
-  m_PlaybackSpeed: 3.72
+  m_PlaybackSpeed: 1
   m_AudioOutputMode: 2
   m_TargetAudioSources:
   - {fileID: 0}
@@ -3447,7 +3447,6 @@ MonoBehaviour:
   intro: {fileID: 32900000, guid: 1301e259bcb0a7b4d9c51015e3d15d5c, type: 3}
   lifting1: {fileID: 32900000, guid: 72ddb1938e9eb174fa871188c86c554f, type: 3}
   lifting2: {fileID: 32900000, guid: 3b144db6752f7aa439b06efe1a6678c7, type: 3}
-  closing: {fileID: 0}
 --- !u!1 &1299376629 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5527404383375753688, guid: 4fae0699b980ccd4c9e8b749e53fbd0b, type: 3}
@@ -6382,7 +6381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 540500a1f0f04874eb098f9c4dfe44a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  answers: 0001010100
+  answers: 0001000100
   text: {fileID: 6814198033528963114}
   panel: {fileID: 9187504036484777857}
   audioSource: {fileID: 573589267659129788}
@@ -7362,8 +7361,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Which of the following did Mark do correctly when transfering Justin from
-    his wheelchair to bed?
+  m_text: Which of the following did Mark do correctly when transferring Justin from
+    his wheelchair to bed? Click on the circles next to each statement you think
+    is correct and hit submit. The correct responses will be green.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7390,7 +7390,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 57.95
+  m_fontSize: 52.1
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1

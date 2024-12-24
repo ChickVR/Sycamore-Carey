@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638663784104960575
+      ticks: 638706113060747499
     m_Hash: 1100914559
   m_LockFileStatus:
     m_FilePath: C:/Users/abhij/Downloads/Studies/RA2/git main/GIT/Sycamore-Carey/Sycamore/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638663784226454394
+      ticks: 638706113164024062
     m_Hash: 117145908
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -1069,12 +1069,14 @@ m_ResolvedPackages:
     - 1.9.1
     - 1.9.2
     - 1.9.4
+    - 1.9.5
     compatible:
     - 1.8.0
     - 1.9.0
     - 1.9.1
     - 1.9.2
     - 1.9.4
+    - 1.9.5
     recommended: 1.8.0
     deprecated:
     - 1.8.0-pre.1

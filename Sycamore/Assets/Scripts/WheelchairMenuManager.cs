@@ -12,7 +12,7 @@ public class WheelchairMenuManager : MonoBehaviour
 
     string headText = "Wrong. Kelly should raise her head.";
     string backText = "Wrong. Kelly should straighten her back.";
-    string bedText = "Wrong. The chair is too far from the bed. Kelly should move the chair closer before transfering.";
+    string bedText = "Wrong. The chair is too far from the bed. Kelly should move the chair closer before transferring.";
     string feetText = "Correct. Kelly has a wide, stable stance, and her left foot is between David's feet.";
     string armsText = "Correct. Kelly has a stable grip around David's back.";
     string footrestText = "Wrong. Kelly should remove the footrests.";

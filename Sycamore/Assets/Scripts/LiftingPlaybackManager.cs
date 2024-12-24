@@ -6,7 +6,7 @@ using UnityEngine.Video;
 public class LiftingPlaybackManager : MonoBehaviour
 {
     [SerializeField]
-    VideoClip intro, lifting1, lifting2, closing;
+    VideoClip intro, lifting1, lifting2;
 
     VideoPlayer videoPlayer;
 
@@ -36,11 +36,6 @@ public class LiftingPlaybackManager : MonoBehaviour
                 {
                     EventManager.TriggerIntroCompleted();
                     videoPlayer.clip = lifting1;
-                    break;
-                }
-            case "Medication_Administration_02":
-                {
-                    videoPlayer.clip = closing;
                     break;
                 }
 

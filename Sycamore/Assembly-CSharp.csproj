@@ -60,7 +60,6 @@
      <Compile Include="Assets\Samples\Meta XR Core SDK\67.0.0\Mixed Reality Sample\Scripts\CustomSceneManager\DynamicSceneManager.cs" />
      <Compile Include="Assets\Scripts\WheelchairMenuManager.cs" />
      <Compile Include="Assets\Scripts\UI_Incorrect.cs" />
-     <Compile Include="Assets\Scripts\DraggableButton.cs" />
      <Compile Include="Assets\Scripts\OVRInputTest.cs" />
      <Compile Include="Assets\Samples\Meta XR Core SDK\67.0.0\Mixed Reality Sample\Scripts\CustomSceneManager\SceneManagerHelper.cs" />
      <Compile Include="Assets\Oculus\SampleFramework\Core\DebugUI\Scripts\LaserPointer.cs" />
@@ -72,7 +71,6 @@
      <Compile Include="Assets\Scripts\PlaybackManager.cs" />
      <Compile Include="Assets\Scripts\WrapUpManager.cs" />
      <Compile Include="Assets\Scripts\ScreenManager.cs" />
-     <Compile Include="Assets\Scripts\TextTypingEffect.cs" />
      <Folder Include="Assets" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <Folder Include="Assets\Oculus\SampleFramework\Core\DebugUI" />

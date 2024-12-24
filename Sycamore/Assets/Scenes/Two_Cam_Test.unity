@@ -2148,9 +2148,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: After Mark finishes helping Neal, he returns to give Nathan his medications.
-    Mark discovers that Nathan has already left for work. Click on the correct steps
-    to take.
+  m_text: Click on the circles next to each statement you think is correct and hit
+    submit. The correct responses will be green.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

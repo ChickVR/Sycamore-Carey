@@ -78,7 +78,7 @@ public class WrapUpManager : MonoBehaviour
                 Image background = toggle.transform.GetChild(0).GetComponent<Image>();
                 if (background != null)
                 {
-                    if (guesses[i] == answers[i])
+                    if (answers[i])
                     {
                         background.color = Color.green; // Correct guess
                     }

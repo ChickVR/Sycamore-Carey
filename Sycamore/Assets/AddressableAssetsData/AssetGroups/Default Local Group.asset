@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 05cb7332083ca354cae4d5e23377c03d
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 3e5e953e9697a6f41b93c1941f8a24df
+    m_Address: Assets/Audio/Kelly Arms.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 278377e5b84289541ad273df53114055, type: 2}
   m_SchemaSet:
